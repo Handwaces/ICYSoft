@@ -7,3 +7,8 @@ ICYSoft 2019 Productions
 * QuickPad 2.2 Release (QP2_2R.zip)
 
 * MultiPad 1.0 Release (MULTIPAD.zip)
+
+### June updates:
+### View in branch "June-22"
+* MultiPad 1.2 Release (MP1_2.zip)
+* Rename: MultiPad 1.0 Release (MP1_0.zip)
